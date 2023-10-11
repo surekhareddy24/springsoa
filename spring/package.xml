@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SurekhaTask</fullName>
+    <types>
+        <members>AccountDataController</members>
+        <members>postmanecocallout</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Account.Number_of_contacts__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>ContactCount</members>
+        <members>ContactCountAfterDelete</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>accountlist</members>
+        <name>LightningComponentBundle</name>
+    </types>
+    <version>58.0</version>
+</Package>
